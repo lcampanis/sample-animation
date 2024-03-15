@@ -1,6 +1,12 @@
 {
   "expo": {
     "name": "sample-animation",
-    "slug": "sample-animation"
+    "slug": "sample-animation",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "jsEngine": "hermes",
+    "ios": {
+      "bundleIdentifier": "com.xdefi.app"
+    }
   }
 }
