@@ -2,6 +2,7 @@
   "expo": {
     "name": "sample-animation",
     "slug": "sample-animation",
+    "entryPoint": "./src/App.js",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "jsEngine": "hermes",
